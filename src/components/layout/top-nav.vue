@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="lg" class="bg-dark">
       <b-navbar-brand class="text-white font-weight-light"
-        >Arvan Challenge</b-navbar-brand
+        >Admin Dashboard</b-navbar-brand
       >
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
